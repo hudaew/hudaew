@@ -60,7 +60,7 @@ Currently Exploring:
 ```
 
 ---
-```markdown
+
 # 📊 GitHub Statistics
 
 <p align="center">
