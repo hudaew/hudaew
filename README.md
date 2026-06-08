@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Huda Ameer
+#  Huda Ameer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;C%2B%2B+%7C+Java+%7C+Python+Developer;Web+Development+Enthusiast;Exploring+DevOps+and+Cloud;Always+Learning+Something+New" />
 
