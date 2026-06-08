@@ -6,23 +6,23 @@
 
 <br>
 
-### 🚀 Building Skills • Solving Problems • Growing Every Day
+###  Building Skills • Solving Problems • Growing Every Day
 
 </div>
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🎓 Computer Science Student
+ SE Student
 
-💻 Passionate about Software Development and Problem Solving
+ Passionate about Software Development and Problem Solving
 
-🌱 Currently improving my knowledge of Data Structures, Algorithms, OOP, and DevOps
+ Currently improving my knowledge of Data Structures, Algorithms, OOP, and DevOps
 
-🔍 Interested in Software Engineering, Backend Systems, Cloud Technologies, and Automation
+ Interested in Software Engineering, Backend Systems, Cloud Technologies, and Automation
 
-⚡ I enjoy turning ideas into projects and continuously learning new technologies
+ I enjoy turning ideas into projects and continuously learning new technologies
 
 ---
 
@@ -50,15 +50,6 @@
 
 # 🎯 Areas of Interest
 
-```text
-✓ C Programming
-✓ C++ Programming
-✓ Java Development
-✓ Python Programming
-✓ Web Development
-✓ Object-Oriented Programming
-✓ Data Structures & Algorithms
-✓ Software Engineering
 
 Currently Exploring:
 → DevOps
@@ -92,7 +83,7 @@ Currently Exploring:
 
 ---
 
-# 📚 Current Learning Journey
+#  Current Learning Journey
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
