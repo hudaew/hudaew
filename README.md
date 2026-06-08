@@ -84,11 +84,7 @@ Currently Exploring:
 
 ---
 
-# 🌟 Developer Mindset
 
-> "Every expert was once a beginner. Consistency beats intensity."
-
----
 
 # 🌐 Connect With Me
 
