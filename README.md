@@ -12,20 +12,6 @@
 
 ---
 
-#  About Me
-
- SE Student
-
- Passionate about Software Development and Problem Solving
-
- Currently improving my knowledge of Data Structures, Algorithms, OOP, and DevOps
-
- Interested in Software Engineering, Backend Systems, Cloud Technologies, and Automation
-
- I enjoy turning ideas into projects and continuously learning new technologies
-
----
-
 # 🛠️ Tech Stack
 
 ### Programming Languages
